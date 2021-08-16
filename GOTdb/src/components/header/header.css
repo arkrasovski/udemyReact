@@ -1,0 +1,20 @@
+a {
+  color: #fff;
+  text-decoration: none;
+}
+.alink:visited {
+  text-decoration: none;
+  color: inherit;
+}
+.alink:hover {
+  color: #fff;
+  text-decoration: none;
+}
+.alink:focus {
+  text-decoration: none;
+  color: inherit;
+}
+.alink:active {
+  text-decoration: none;
+  color: inherit;
+}
